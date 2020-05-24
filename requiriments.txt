@@ -1,0 +1,7 @@
+blockchain==1.4.4
+certifi==2020.4.5.1
+chardet==3.0.4
+enum-compat==0.0.3
+future==0.18.2
+idna==2.9
+urllib3==1.25.9
