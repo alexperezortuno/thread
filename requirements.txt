@@ -1,6 +1,6 @@
 astroid==2.4.1
 blockchain==1.4.4
-certifi==2020.4.5.1
+certifi==2022.12.7
 chardet==3.0.4
 enum-compat==0.0.3
 future==0.18.2
